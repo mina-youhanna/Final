@@ -1,0 +1,429 @@
+{
+  "1": {
+    "Arabic": [
+      { "title": "Learn Arabic with Safaa - Greetings", "img": "https://img.youtube.com/vi/0pVbp6ui5OA/0.jpg", "link": "https://www.youtube.com/watch?v=0pVbp6ui5OA", "grade": "Grade 1", "subject": "Arabic" },
+      { "title": "Arabic Alphabet - Lesson 1", "img": "https://img.youtube.com/vi/c-7SVieC_04/0.jpg", "link": "https://www.youtube.com/watch?v=c-7SVieC_04", "grade": "Grade 1", "subject": "Arabic" },
+      { "title": "Arabic B - UAE - Grade 1 - Greetings", "img": "https://img.youtube.com/vi/_RDTmPrXOQY/0.jpg", "link": "https://www.youtube.com/watch?v=_RDTmPrXOQY", "grade": "Grade 1", "subject": "Arabic" }
+    ],
+    "English": [
+      { "title": "Year 1 English - Introductions & Alphabets", "img": "https://img.youtube.com/vi/wCZ9bcLmLMg/0.jpg", "link": "https://www.youtube.com/watch?v=wCZ9bcLmLMg", "grade": "Grade 1", "subject": "English" },
+      { "title": "Grade 1 English - We and School", "img": "https://img.youtube.com/vi/T2c0RsV20mo/0.jpg", "link": "https://www.youtube.com/watch?v=T2c0RsV20mo", "grade": "Grade 1", "subject": "English" },
+      { "title": "English Language - Grade 1: Is, Are", "img": "https://img.youtube.com/vi/H5KoXuooTvU/0.jpg", "link": "https://www.youtube.com/watch?v=H5KoXuooTvU", "grade": "Grade 1", "subject": "English" }
+    ],
+    "Math": [
+      { "title": "1st Grade Math Compilation", "img": "https://img.youtube.com/vi/xX5caFM5xMY/0.jpg", "link": "https://www.youtube.com/watch?v=xX5caFM5xMY", "grade": "Grade 1", "subject": "Math" },
+      { "title": "Math Lessons for 1st Grade", "img": "https://img.youtube.com/vi/OAHZwo1FgOY/0.jpg", "link": "https://www.youtube.com/watch?v=OAHZwo1FgOY", "grade": "Grade 1", "subject": "Math" },
+      { "title": "Grade 1 Math - Addition to 10", "img": "https://img.youtube.com/vi/O5FuLZNEq1E/0.jpg", "link": "https://www.youtube.com/watch?v=O5FuLZNEq1E", "grade": "Grade 1", "subject": "Math" }
+    ]
+  },
+  "2": {
+    "Arabic": [
+      { "title": "Arabic B - UAE - Grade 2 - My Body", "img": "https://img.youtube.com/vi/-RCPAYUm1lE/0.jpg", "link": "https://www.youtube.com/watch?v=-RCPAYUm1lE", "grade": "Grade 2", "subject": "Arabic" },
+      { "title": "Learn Arabic with Asmae - Lesson 1", "img": "https://img.youtube.com/vi/NapGLT3WFX8/0.jpg", "link": "https://www.youtube.com/watch?v=NapGLT3WFX8", "grade": "Grade 2", "subject": "Arabic" },
+      { "title": "Arabic 101 - Lesson 2", "img": "https://img.youtube.com/vi/1AT7IMLcA58/0.jpg", "link": "https://www.youtube.com/watch?v=1AT7IMLcA58", "grade": "Grade 2", "subject": "Arabic" }
+    ],
+    "English": [
+      { "title": "Grade 2 Reading Comprehension", "img": "https://img.youtube.com/vi/xvzd0BNla2g/0.jpg", "link": "https://www.youtube.com/watch?v=xvzd0BNla2g", "grade": "Grade 2", "subject": "English" },
+      { "title": "Classifying Sounds", "img": "https://img.youtube.com/vi/iXNNT6Pcibo/0.jpg", "link": "https://www.youtube.com/watch?v=iXNNT6Pcibo", "grade": "Grade 2", "subject": "English" },
+      { "title": "Practice Reading English", "img": "https://img.youtube.com/vi/30tzWRYhF9Y/0.jpg", "link": "https://www.youtube.com/watch?v=30tzWRYhF9Y", "grade": "Grade 2", "subject": "English" }
+    ],
+    "Math": [
+      { "title": "2nd Grade Math Compilation", "img": "https://img.youtube.com/vi/S2TYfrGEih4/0.jpg", "link": "https://www.youtube.com/watch?v=S2TYfrGEih4", "grade": "Grade 2", "subject": "Math" },
+      { "title": "Addition and Subtraction Fact Families", "img": "https://img.youtube.com/vi/Dj_t4PPo2T8/0.jpg", "link": "https://www.youtube.com/watch?v=Dj_t4PPo2T8", "grade": "Grade 2", "subject": "Math" },
+      { "title": "Subtracting Three-Digit Numbers", "img": "https://img.youtube.com/vi/dAufhZ594V8/0.jpg", "link": "https://www.youtube.com/watch?v=dAufhZ594V8", "grade": "Grade 2", "subject": "Math" }
+    ]
+  },
+"3":{ "Arabic": [{
+  "title": "الأسماء",
+  "img": "https://img.youtube.com/vi/1AT7IMLcA58/0.jpg",
+  "link": "https://www.youtube.com/watch?v=1AT7IMLcA58",
+  "grade": "الصف الثالث",
+  "subject": "اللغة العربية"
+},
+{
+  "title": "الأفعال",
+  "img": "https://img.youtube.com/vi/NapGLT3WFX8/0.jpg",
+  "link": "https://www.youtube.com/watch?v=NapGLT3WFX8",
+  "grade": "الصف الثالث",
+  "subject": "اللغة العربية"
+},
+{
+  "title": "الحروف",
+  "img": "https://img.youtube.com/vi/-RCPAYUm1lE/0.jpg",
+  "link": "https://www.youtube.com/watch?v=-RCPAYUm1lE",
+  "grade": "الصف الثالث",
+  "subject": "اللغة العربية"
+}
+],
+"English":[
+  {
+    "title": "Reading Comprehension",
+    "img": "https://img.youtube.com/vi/xvzd0BNla2g/0.jpg",
+    "link": "https://www.youtube.com/watch?v=xvzd0BNla2g",
+    "grade": "Grade 3",
+    "subject": "English"
+  },
+  {
+    "title": "Grammar Basics",
+    "img": "https://img.youtube.com/vi/iXNNT6Pcibo/0.jpg",
+    "link": "https://www.youtube.com/watch?v=iXNNT6Pcibo",
+    "grade": "Grade 3",
+    "subject": "English"
+  },
+  {
+    "title": "Vocabulary Building",
+    "img": "https://img.youtube.com/vi/30tzWRYhF9Y/0.jpg",
+    "link": "https://www.youtube.com/watch?v=30tzWRYhF9Y",
+    "grade": "Grade 3",
+    "subject": "English"
+  }
+], 
+ "Math":[
+  {
+    "title": "Multiplication Basics",
+    "img": "https://img.youtube.com/vi/S2TYfrGEih4/0.jpg",
+    "link": "https://www.youtube.com/watch?v=S2TYfrGEih4",
+    "grade": "Grade 3",
+    "subject": "Math"
+  },
+  {
+    "title": "Addition and Subtraction",
+    "img": "https://img.youtube.com/vi/Dj_t4PPo2T8/0.jpg",
+    "link": "https://www.youtube.com/watch?v=Dj_t4PPo2T8",
+    "grade": "Grade 3",
+    "subject": "Math"
+  },
+  {
+    "title": "Geometry Basics",
+    "img": "https://img.youtube.com/vi/dAufhZ594V8/0.jpg",
+    "link": "https://www.youtube.com/watch?v=dAufhZ594V8",
+    "grade": "Grade 3",
+    "subject": "Math"
+  }
+ ] },
+
+  "4": {
+    "Arabic": [
+      {
+        "title": "الضمائر",
+        "img": "https://img.youtube.com/vi/1AT7IMLcA58/0.jpg",
+        "link": "https://www.youtube.com/watch?v=1AT7IMLcA58",
+        "grade": "الصف الرابع",
+        "subject": "Arabic"
+      },
+      {
+        "title": "الجمل",
+        "img": "https://img.youtube.com/vi/NapGLT3WFX8/0.jpg",
+        "link": "https://www.youtube.com/watch?v=NapGLT3WFX8",
+        "grade": "الصف الرابع",
+        "subject": "Arabic"
+      },
+      {
+        "title": "الأفعال المضارعة",
+        "img": "https://img.youtube.com/vi/-RCPAYUm1lE/0.jpg",
+        "link": "https://www.youtube.com/watch?v=-RCPAYUm1lE",
+        "grade": "الصف الرابع",
+        "subject": "Arabic"
+      }
+    ],
+    "English": [
+      {
+        "title": "Advanced Reading",
+        "img": "https://img.youtube.com/vi/xvzd0BNla2g/0.jpg",
+        "link": "https://www.youtube.com/watch?v=xvzd0BNla2g",
+        "grade": "Grade 4",
+        "subject": "English"
+      },
+      {
+        "title": "Complex Sentences",
+        "img": "https://img.youtube.com/vi/iXNNT6Pcibo/0.jpg",
+        "link": "https://www.youtube.com/watch?v=iXNNT6Pcibo",
+        "grade": "Grade 4",
+        "subject": "English"
+      },
+      {
+        "title": "Grammar and Usage",
+        "img": "https://img.youtube.com/vi/30tzWRYhF9Y/0.jpg",
+        "link": "https://www.youtube.com/watch?v=30tzWRYhF9Y",
+        "grade": "Grade 4",
+        "subject": "English"
+      }
+    ],
+    "Math": [
+      {
+        "title": "Fractions and Decimals",
+        "img": "https://img.youtube.com/vi/S2TYfrGEih4/0.jpg",
+        "link": "https://www.youtube.com/watch?v=S2TYfrGEih4",
+        "grade": "Grade 4",
+        "subject": "Math"
+      },
+      {
+        "title": "Advanced Addition and Subtraction",
+        "img": "https://img.youtube.com/vi/Dj_t4PPo2T8/0.jpg",
+        "link": "https://www.youtube.com/watch?v=Dj_t4PPo2T8",
+        "grade": "Grade 4",
+        "subject": "Math"
+      },
+      {
+        "title": "Measurement and Data",
+        "img": "https://img.youtube.com/vi/dAufhZ594V8/0.jpg",
+        "link": "https://www.youtube.com/watch?v=dAufhZ594V8",
+        "grade": "Grade 4",
+        "subject": "Math"
+      }
+    ],
+    "Studies": [
+      {
+        "title": "Geography Basics",
+        "img": "https://img.youtube.com/vi/xyz123/0.jpg",
+        "link": "https://www.youtube.com/watch?v=xyz123",
+        "grade": "Grade 4",
+        "subject": "Studies"
+      },
+      {
+        "title": "History of Ancient Civilizations",
+        "img": "https://img.youtube.com/vi/abc456/0.jpg",
+        "link": "https://www.youtube.com/watch?v=abc456",
+        "grade": "Grade 4",
+        "subject": "Studies"
+      }
+    ],
+    "Science": [
+      {
+        "title": "Introduction to Biology",
+        "img": "https://img.youtube.com/vi/def789/0.jpg",
+        "link": "https://www.youtube.com/watch?v=def789",
+        "grade": "Grade 4",
+        "subject": "Science"
+      },
+      {
+        "title": "Basic Physics Concepts",
+        "img": "https://img.youtube.com/vi/ghi012/0.jpg",
+        "link": "https://www.youtube.com/watch?v=ghi012",
+        "grade": "Grade 4",
+        "subject": "Science"
+      }
+    ]
+  },
+    "5": {
+      "Arabic": [
+        {
+          "title": "الضمائر",
+          "img": "https://img.youtube.com/vi/1AT7IMLcA58/0.jpg",
+          "link": "https://www.youtube.com/watch?v=1AT7IMLcA58",
+          "grade": "الصف الخامس",
+          "subject": "اللغة العربية"
+        },
+        {
+          "title": "الجمل",
+          "img": "https://img.youtube.com/vi/NapGLT3WFX8/0.jpg",
+          "link": "https://www.youtube.com/watch?v=NapGLT3WFX8",
+          "grade": "الصف الخامس",
+          "subject": "اللغة العربية"
+        },
+        {
+          "title": "الأفعال المضارعة",
+          "img": "https://img.youtube.com/vi/-RCPAYUm1lE/0.jpg",
+          "link": "https://www.youtube.com/watch?v=-RCPAYUm1lE",
+          "grade": "الصف الخامس",
+          "subject": "اللغة العربية"
+        }
+      ],
+      "English": [
+        {
+          "title": "Reading Comprehension",
+          "img": "https://img.youtube.com/vi/xvzd0BNla2g/0.jpg",
+          "link": "https://www.youtube.com/watch?v=xvzd0BNla2g",
+          "grade": "Grade 5",
+          "subject": "English"
+        },
+        {
+          "title": "Grammar Basics",
+          "img": "https://img.youtube.com/vi/iXNNT6Pcibo/0.jpg",
+          "link": "https://www.youtube.com/watch?v=iXNNT6Pcibo",
+          "grade": "Grade 5",
+          "subject": "English"
+        },
+        {
+          "title": "Vocabulary Building",
+          "img": "https://img.youtube.com/vi/30tzWRYhF9Y/0.jpg",
+          "link": "https://www.youtube.com/watch?v=30tzWRYhF9Y",
+          "grade": "Grade 5",
+          "subject": "English"
+        }
+      ],
+      "Math": [
+        {
+          "title": "Multiplication Basics",
+          "img": "https://img.youtube.com/vi/S2TYfrGEih4/0.jpg",
+          "link": "https://www.youtube.com/watch?v=S2TYfrGEih4",
+          "grade": "Grade 5",
+          "subject": "Math"
+        },
+        {
+          "title": "Addition and Subtraction",
+          "img": "https://img.youtube.com/vi/Dj_t4PPo2T8/0.jpg",
+          "link": "https://www.youtube.com/watch?v=Dj_t4PPo2T8",
+          "grade": "Grade 5",
+          "subject": "Math"
+        },
+        {
+          "title": "Geometry Basics",
+          "img": "https://img.youtube.com/vi/dAufhZ594V8/0.jpg",
+          "link": "https://www.youtube.com/watch?v=dAufhZ594V8",
+          "grade": "Grade 5",
+          "subject": "Math"
+        }
+      ],
+      "Studies": [
+        {
+          "title": "Geography Basics",
+          "img": "https://img.youtube.com/vi/xyz123/0.jpg",
+          "link": "https://www.youtube.com/watch?v=xyz123",
+          "grade": "Grade 5",
+          "subject": "Studies"
+        },
+        {
+          "title": "History of Ancient Civilizations",
+          "img": "https://img.youtube.com/vi/abc456/0.jpg",
+          "link": "https://www.youtube.com/watch?v=abc456",
+          "grade": "Grade 5",
+          "subject": "Studies"
+        }
+      ],
+      "Science": [
+        {
+          "title": "Introduction to Biology",
+          "img": "https://img.youtube.com/vi/def789/0.jpg",
+          "link": "https://www.youtube.com/watch?v=def789",
+          "grade": "Grade 5",
+          "subject": "Science"
+        },
+        {
+          "title": "Basic Physics Concepts",
+          "img": "https://img.youtube.com/vi/ghi012/0.jpg",
+          "link": "https://www.youtube.com/watch?v=ghi012",
+          "grade": "Grade 5",
+          "subject": "Science"
+        }
+      ]
+    }, 
+      "6": {
+        "Arabic": [
+          {
+            "title": "الضمائر المتصلة والمنفصلة للصف السادس",
+            "img": "https://img.youtube.com/vi/t50mUUum0ho/0.jpg",
+            "link": "https://www.youtube.com/watch?v=t50mUUum0ho",
+            "grade": "الصف السادس",
+            "subject": "اللغة العربية"
+          },
+          {
+            "title": "أنواع الجملة حسب أغراضها",
+            "img": "https://img.youtube.com/vi/0d7C_lWcYl4/0.jpg",
+            "link": "https://www.youtube.com/watch?v=0d7C_lWcYl4",
+            "grade": "الصف السادس",
+            "subject": "اللغة العربية"
+          },
+          {
+            "title": "إعراب الفعل المضارع",
+            "img": "https://img.youtube.com/vi/SFNbnReaRuQ/0.jpg",
+            "link": "https://www.youtube.com/watch?v=SFNbnReaRuQ",
+            "grade": "الصف السادس",
+            "subject": "اللغة العربية"
+          }
+        ],
+        "English": [
+          {
+            "title": "شرح منهج كونكت للصف السادس - الوحدة السابعة",
+            "img": "https://img.youtube.com/vi/R1sOyKQQXTM/0.jpg",
+            "link": "https://www.youtube.com/watch?v=R1sOyKQQXTM",
+            "grade": "Grade 6",
+            "subject": "English"
+          },
+          {
+            "title": "شرح منهج كونكت للصف السادس - الوحدة السابعة الدرس الثالث",
+            "img": "https://img.youtube.com/vi/mEIlNdqE8FA/0.jpg",
+            "link": "https://www.youtube.com/watch?v=mEIlNdqE8FA",
+            "grade": "Grade 6",
+            "subject": "English"
+          },
+          {
+            "title": "شرح منهج كونكت للصف السادس - الوحدة التاسعة",
+            "img": "https://img.youtube.com/vi/ZyQudcrR-BM/0.jpg",
+            "link": "https://www.youtube.com/watch?v=ZyQudcrR-BM",
+            "grade": "Grade 6",
+            "subject": "English"
+          }
+        ],
+        "Math": [
+          {
+            "title": "Long Division - Math Grade 6",
+            "img": "https://img.youtube.com/vi/Lskd_hmY6pY/0.jpg",
+            "link": "https://www.youtube.com/watch?v=Lskd_hmY6pY",
+            "grade": "Grade 6",
+            "subject": "Math"
+          },
+          {
+            "title": "شرح منهج الرياضيات للصف السادس - الوحدة الأولى",
+            "img": "https://img.youtube.com/vi/H0n5fPcBxBo/0.jpg",
+            "link": "https://www.youtube.com/watch?v=H0n5fPcBxBo",
+            "grade": "Grade 6",
+            "subject": "Math"
+          },
+          {
+            "title": "شرح منهج الرياضيات للصف السادس - الوحدة الثانية",
+            "img": "https://img.youtube.com/vi/OCSRwBEgmpA/0.jpg",
+            "link": "https://www.youtube.com/watch?v=OCSRwBEgmpA",
+            "grade": "Grade 6",
+            "subject": "Math"
+          }
+        ],
+        "Studies": [
+          {
+            "title": "الموقع الجغرافي لوطننا العربي",
+            "img": "https://img.youtube.com/vi/xyylseiybZs/0.jpg",
+            "link": "https://www.youtube.com/watch?v=xyylseiybZs",
+            "grade": "الصف السادس",
+            "subject": "الدراسات الاجتماعية"
+          },
+          {
+            "title": "ظهور الإسلام في وطننا العربي",
+            "img": "https://img.youtube.com/vi/MkDcARz5gxo/0.jpg",
+            "link": "https://www.youtube.com/watch?v=MkDcARz5gxo",
+            "grade": "الصف السادس",
+            "subject": "الدراسات الاجتماعية"
+          },
+          {
+            "title": "حل كتاب الوزارة قصة ظهور الإسلام",
+            "img": "https://img.youtube.com/vi/0k7PstKgB90/0.jpg",
+            "link": "https://www.youtube.com/watch?v=0k7PstKgB90",
+            "grade": "الصف السادس",
+            "subject": "الدراسات الاجتماعية"
+          }
+        ],
+        "Science": [
+          {
+            "title": "Comparing Plant & Animal Cell",
+            "img": "https://img.youtube.com/vi/TPgpqJ8ptlo/0.jpg",
+            "link": "https://www.youtube.com/watch?v=TPgpqJ8ptlo",
+            "grade": "Grade 6",
+            "subject": "Science"
+          },
+          {
+            "title": "Science Grade 6 - Lesson 2",
+            "img": "https://img.youtube.com/vi/ITye8UrNlAI/0.jpg",
+            "link": "https://www.youtube.com/watch?v=ITye8UrNlAI",
+            "grade": "Grade 6",
+            "subject": "Science"
+          },
+          {
+            "title": "Science Grade 6 - Lesson 3",
+            "img": "https://img.youtube.com/vi/xT-Crx6la1s/0.jpg",
+            "link": "https://www.youtube.com/watch?v=xT-Crx6la1s",
+            "grade": "Grade 6",
+            "subject": "Science"
+          }
+        ]
+      }
+    }
+    
